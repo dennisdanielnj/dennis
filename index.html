@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Navigation Bar</title>
+    <meta name="viewport" content="width=device width initial scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<div class="container">
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">MyStore</a>
+        </div>
+        <ul class="nav navbar-nav breadcrumb">
+            <li>Home</li>
+            <li>page 1</li>
+            <li>page 2</li>
+            <li>page 3</li>
+        </ul>
+    </div>
+    <div class="dropdown">
+    <button class="dtn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
+    </button>
+    <ul class="dropdown-menu">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Page 1</a></li>
+        <li><a href="#">Page 2</a></li>
+        <li><a href="#">Page 3</a></li>
+    </ul>
+</div>
+<!--    <form class="navbar-form navbar-left"-->
+<!--          action="/action_page.php">-->
+<!--        <div class="form-group">-->
+<!--            <input type="text" class="form-control"-->
+<!--                   placeholder="search">-->
+<!--        </div>-->
+<!--        <button type="submit" class="btn btn-default">submit</button>-->
+<!--    </form>-->
+</nav>
+</head>
+<body>
+<select id="cars" name="cars" size="3" multiple>
+    <option value="volvo">Volvo</option>
+    <option value="bmw">BMW</option>
+    <option value="benz">Benz</option>
+    <option value="range" selected>Range Rover</option>
+</select>
+<div class="container">
+<textarea name="message" rows="10" cols="30">The cat was playing in the garden</textarea>
+</div>
+<button type="button" onclick="alert('Hello World!')">click me!</button>
+
+<div class="container">
+    <div class="jumbotron">
+        <h1>About</h1>
+        <p>some random text</p>
+    </div>
+</div>
+<div class="container">
+        <p style="background-color: blue;">
+            <a href="#" class="btn btn-primary btn-block btn-ig">
+                <span class="glyphicon glyphicon-log-in pull-left"></span>click me to continue incognito
+            </a>
+        </p>
+    <p style="background-color: orange;">
+        <a href="#" class="btn btn-warning btn-block btn-ig">
+            <span class="glyphicon glyphicon-registration-mark pull-left"></span>click me to continue
+        </a>
+    </p>
+</div>
+<p style="background-color:green ;">
+    <a href="#" class="btn btn-success  btn-block btn-ig">
+        <span class="glyphicon glyphicon-log-in pull-left"></span>click me to continue
+    </a>
+</p>
+<form action="/action_page.php" autocomplete="off">
+    <fieldset>
+        <legend>Personalia:</legend>
+        <label for="fname">First Name:</label><br>
+        <input type="text" id="fname" name="fname"  required><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"  autocomplete="off"><br><br>
+        <input type="submit" value="submit">
+        <input type="reset">
+    </fieldset>
+</form>
+
+<form action="/action_page.php">
+    <input list="browsers">
+    <datalist id="browsers">
+        <option value="Internet Explorer">
+            <option value="Firefox">
+        <option value="Chrome">
+        <option value="Opera">
+        <option value="Safari">
+    </datalist>
+</form>
+<form><input type="image"></form>
+</body>
+
+</div>
+<br>
+<footer>
+    <p id="mi">My store created by m.i.t</p>
+</footer>
+<p>Get in touch</p>
+</footer>
+</body>
+</div>
+</html>

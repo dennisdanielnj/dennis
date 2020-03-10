@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d422a2f-f233-41e9-899a-6239738c3065" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xh6wJgL2WF8bLEy5v1yhBUFLF7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.assigno.html">
+    <configuration name="Bootstrap.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/daniel/Bootstrap.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="assigno.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/daniel/img/assigno.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ddan.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/daniel/ddan.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/daniel/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="rain.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/daniel/rain.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.assigno.html" />
+        <item itemvalue="JavaScript Debug.rain.html" />
+        <item itemvalue="JavaScript Debug.ddan.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Bootstrap.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d422a2f-f233-41e9-899a-6239738c3065" name="Default Changelist" comment="" />
+      <created>1581334565183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581334565183</updated>
+      <workItem from="1581334568749" duration="3302000" />
+      <workItem from="1581508307690" duration="6156000" />
+      <workItem from="1581486217710" duration="5746000" />
+      <workItem from="1581573312917" duration="498000" />
+      <workItem from="1581596327273" duration="3243000" />
+      <workItem from="1581649822361" duration="7382000" />
+      <workItem from="1581760831926" duration="2013000" />
+      <workItem from="1581910159445" duration="2375000" />
+      <workItem from="1581914264943" duration="375000" />
+      <workItem from="1581914672639" duration="2711000" />
+      <workItem from="1581997248366" duration="7146000" />
+      <workItem from="1582082497314" duration="3136000" />
+      <workItem from="1582632749109" duration="1959000" />
+      <workItem from="1582715805225" duration="6014000" />
+      <workItem from="1582960903672" duration="5470000" />
+      <workItem from="1583136343367" duration="10375000" />
+      <workItem from="1583252894372" duration="627000" />
+      <workItem from="1583321542265" duration="7820000" />
+      <workItem from="1583408165580" duration="6889000" />
+      <workItem from="1583690627915" duration="6512000" />
+      <workItem from="1583740836707" duration="7515000" />
+      <workItem from="1583760674564" duration="1754000" />
+      <workItem from="1583839047343" duration="1225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="394" y="184" width="570" height="401" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583755714390">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state x="394" y="184" width="570" height="401" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1366.706@0.28.1366.706" timestamp="1583755714390" />
+    <state x="445" y="51" width="466" height="667" key="#index.html" timestamp="1583154111821">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state x="445" y="51" width="466" height="667" key="#index.html/0.28.1366.706@0.28.1366.706" timestamp="1583154111821" />
+    <state x="100" y="128" width="1166" height="506" key="DiffContextDialog" timestamp="1583694648612">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state x="100" y="128" width="1166" height="506" key="DiffContextDialog/0.28.1366.706@0.28.1366.706" timestamp="1583694648612" />
+    <state x="432" y="229" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583690649738">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state x="432" y="229" width="424" height="491" key="FileChooserDialogImpl/0.28.1366.706@0.28.1366.706" timestamp="1583690649738" />
+    <state width="1318" height="200" key="GridCell.Tab.0.bottom" timestamp="1583760357314">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state width="1318" height="200" key="GridCell.Tab.0.bottom/0.28.1366.706@0.28.1366.706" timestamp="1583760357314" />
+    <state width="1318" height="200" key="GridCell.Tab.0.center" timestamp="1583760357313">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state width="1318" height="200" key="GridCell.Tab.0.center/0.28.1366.706@0.28.1366.706" timestamp="1583760357313" />
+    <state width="1318" height="200" key="GridCell.Tab.0.left" timestamp="1583760357312">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state width="1318" height="200" key="GridCell.Tab.0.left/0.28.1366.706@0.28.1366.706" timestamp="1583760357312" />
+    <state width="1318" height="200" key="GridCell.Tab.0.right" timestamp="1583760357314">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state width="1318" height="200" key="GridCell.Tab.0.right/0.28.1366.706@0.28.1366.706" timestamp="1583760357314" />
+    <state width="1318" height="200" key="GridCell.Tab.1.bottom" timestamp="1583760357315">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state width="1318" height="200" key="GridCell.Tab.1.bottom/0.28.1366.706@0.28.1366.706" timestamp="1583760357315" />
+    <state width="1318" height="200" key="GridCell.Tab.1.center" timestamp="1583760357314">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state width="1318" height="200" key="GridCell.Tab.1.center/0.28.1366.706@0.28.1366.706" timestamp="1583760357314" />
+    <state width="1318" height="200" key="GridCell.Tab.1.left" timestamp="1583760357314">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state width="1318" height="200" key="GridCell.Tab.1.left/0.28.1366.706@0.28.1366.706" timestamp="1583760357314" />
+    <state width="1318" height="200" key="GridCell.Tab.1.right" timestamp="1583760357315">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state width="1318" height="200" key="GridCell.Tab.1.right/0.28.1366.706@0.28.1366.706" timestamp="1583760357315" />
+    <state x="110" y="148" width="1146" height="466" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581656637977">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state x="110" y="148" width="1146" height="466" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.28.1366.706@0.28.1366.706" timestamp="1581656637977" />
+    <state x="441" y="28" width="473" height="706" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583742469483">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state x="441" y="28" width="473" height="706" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1366.706@0.28.1366.706" timestamp="1583742469483" />
+    <state x="347" y="166" key="run.anything.popup" timestamp="1583759395339">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state x="347" y="166" key="run.anything.popup/0.28.1366.706@0.28.1366.706" timestamp="1583759395339" />
+    <state x="312" y="55" width="672" height="678" key="search.everywhere.popup" timestamp="1582963846093">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state x="312" y="55" width="672" height="678" key="search.everywhere.popup/0.28.1366.706@0.28.1366.706" timestamp="1582963846093" />
+  </component>
+</project>
